@@ -19,6 +19,8 @@
  * @package WordPress
  */
 
+define( 'WP_HOME', 'http://localhost/indococointernational.com' );
+define( 'WP_SITEURL', 'http://localhost/indococointernational.com' );
 define('FS_METHOD', 'direct');
 
 // ** MySQL settings - You can get this info from your web host ** //
@@ -26,10 +28,10 @@ define('FS_METHOD', 'direct');
 define('DB_NAME', 'indococodb');
 
 /** MySQL database username */
-define('DB_USER', 'adam');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '591990');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

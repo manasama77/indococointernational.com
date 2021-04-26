@@ -1855,12 +1855,12 @@ Portfolio Section
     margin: 0 -15px;
 }
 
-.portfolio-listing a:nth-child(3n+1){
+.portfolio-listing a:nth-child(4n+1){
     clear: both;
 }
 
 .portfolio-list {
-    width: 33.333%;
+    width: 25%;
     float: left;
     position: relative;
 }
@@ -2193,7 +2193,7 @@ Footer Section
 
 .top-footer {
     background: #272727;
-    padding: 55px 0;
+    padding: 10px 0;
 }
 
 .top-footer ul {
